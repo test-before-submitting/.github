@@ -11,8 +11,8 @@ More about me:
 This is Jan. 2022 and I am about to be a fresh graduate this June.  
 This is me in 2021:  
 ![me in 2021-1](https://github.com/test-before-submitting/.github/blob/main/assets/me%20in%202021-1.jpg)  
-Kind of getting lost in the sea of knowledge but it's kind of fun. My spark is being turned on and off again and again😊:  
-![me in 2021-2](<img src = "https://github.com/test-before-submitting/.github/blob/main/assets/be%20like.jpg" width = "30%" alt="have no idea and get lost😂"/>)  
+Kind of getting lost in the sea of knowledge but it's fun. My spark is being turned on and off again and again😊:  
+<img src= "https://github.com/test-before-submitting/.github/blob/main/assets/be%20like.jpg" alt="get lost😂" width="30%" />  
 this is my expectations:  
 ![so next](<img src = "https://github.com/test-before-submitting/.github/blob/main/assets/so%20next.jpg" width="30%" alt="find myself"/>)  
 >Let's get ready to rumble.🤩  
