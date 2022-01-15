@@ -15,10 +15,10 @@ As you can probably tell or not, the name came from one of my favorite songs: * 
 
 More about me:
 this is me in 2021:
-![me in 2021-1](assets/me in 2021-1.jpg)
+![me in 2021-1](https://raw.githubusercontent.com/test-before-submitting/.github/main/assets/me%20in%202021-1.jpg)
 
 this is how I look like at this particular moment:
-![be like](assets/be like.jpg)
+![me in 2021-2](https://github.com/test-before-submitting/.github/blob/main/assets/me%20in%202021-1.jpg)
 
 this is my expectations:
 ![so next](assets/so next.jpg)
